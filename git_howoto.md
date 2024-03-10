@@ -44,3 +44,15 @@ git merge <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
+Команда для колонизации репозиторий
+```sh
+git clone <repository address>
+```
+Скачивание и автоматически merge с нашей версией
+```sh
+git pull
+```
+Отправление нашей версий репозиторий на внешний репозиторий
+```sh
+git push
+```
